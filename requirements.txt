@@ -1,0 +1,7 @@
+streamlit>=1.40,<2
+chromadb>=1.0,<2
+sentence-transformers>=3.0,<6
+groq>=0.20,<2
+pypdf>=5,<7
+python-dotenv>=1,<2
+notebook>=7,<8
