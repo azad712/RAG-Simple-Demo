@@ -2,6 +2,8 @@
 
 A teaching project with Streamlit, local sentence-transformer embeddings, persistent Chroma vector storage, and Groq for answers.
 
+## Summary
+
 Retrieval-Augmented Generation (RAG) combines information retrieval with language generation.
 It searches a knowledge source for content relevant to a user's question.
 That retrieved content is provided to a language model as context.
