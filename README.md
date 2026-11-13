@@ -2,6 +2,12 @@
 
 A teaching project with Streamlit, local sentence-transformer embeddings, persistent Chroma vector storage, and Groq for answers.
 
+Retrieval-Augmented Generation (RAG) combines information retrieval with language generation.
+It searches a knowledge source for content relevant to a user's question.
+That retrieved content is provided to a language model as context.
+The model uses the context to produce a grounded, question-specific answer.
+Answer quality depends on the source material and how well relevant information is retrieved.
+
 ## Setup (Windows PowerShell, Python 3.10+)
 
 Open a terminal in this folder, then run:
